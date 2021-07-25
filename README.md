@@ -1,13 +1,18 @@
 # syspectr-scripts
 
-Publishing my own powershell scripts to be used with O&O Syspectr (app.syspectr.com), 
+Publishing my own powershell scripts to be used with ![O&O Syspectr](https://www.oo-software.com/images/logos/oo.svg)'s https://app.syspectr.com, 
 a free service to keep your machines under control.
 
-There are some DEMO scripts which I wont publish here. 
-They come with every instance if you decide to sign up, so there is no need.
+There are some [DEMO] scripts which I wont publish here. 
+They come with every instance if you decide to sign up, so there is no need to.
 
-Personally I use the service to onboard my new machines due to lack of a proper software deployment system.
+Personally I use the service to onboard my new machines due to lack of a software deployment system.
 It relies on chocolatey community (chocolatey.org) in most places which is a great thing in itself.
+
+I had trouble with new scripts. My first saves left me with an empty script. All-the-time.
+To avoid this glitch, simply create a new script, enter the name and save it.
+Re-Enter the script and past/write your script and save it.
+
 
 ## Notice
 Keep in mind that these scripts are deeply in a state of "works-for-me"!
